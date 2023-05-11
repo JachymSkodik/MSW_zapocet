@@ -1,0 +1,8 @@
+sympy
+scipy
+numpy
+matplotlib
+timeit
+pandas
+plotly
+scikit-learn
